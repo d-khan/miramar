@@ -1,3 +1,5 @@
+# workbased.netlify.app
+
 # What defined work-based learning?
 
 ## The Course Outcomes (COs) are designed primarily to support student transfer to universities rather than direct employment. Therefore, integrating Work-Based Learning (WBL) activities is essential to align coursework with employer expectations and industry needs.
